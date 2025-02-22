@@ -1,0 +1,14 @@
+[
+    {
+        "name": "Muneeb",
+        "age": 20,
+        "weight": 69.0,
+        "height": 1.72,
+        "bmi": 23.32,
+        "bmi_category": "Normal weight",
+        "fat_loss_recommendation": 3.915200000000013,
+        "blood_type": "O+VE",
+        "bmi_prime": 22.5,
+        "gender": "M"
+    }
+]
